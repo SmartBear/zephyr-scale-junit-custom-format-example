@@ -8,28 +8,6 @@
     <artifactId>zephyrscale-junit-integration-example</artifactId>
     <version>1.0</version>
 
-    <repositories>
-        <repository>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-            <id>bintray-zephyrscale-zephyrscale</id>
-            <name>bintray</name>
-            <url>https://dl.bintray.com/zephyrscale/zephyrscale</url>
-        </repository>
-    </repositories>
-
-    <pluginRepositories>
-        <pluginRepository>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-            <id>bintray-zephyrscale-zephyrscale</id>
-            <name>bintray-plugins</name>
-            <url>https://dl.bintray.com/zephyrscale/zephyrscale</url>
-        </pluginRepository>
-    </pluginRepositories>
-
     <dependencies>
         <dependency>
             <groupId>com.smartbear</groupId>
